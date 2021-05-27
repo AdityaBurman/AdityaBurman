@@ -1,4 +1,4 @@
-![Header](https://github.com/AdityaBurman/AdityaBurman/blob/main/aditya.jpg)
+![Header](https://github.com/AdityaBurman/AdityaBurman/blob/main/AdityaBurman.jpg)
 ## 👀 I’m currently pursuing Advance Diploma in IT, Networking and Cloud Computing at National Skill Training Institute,Bhubaneswar.
 ### 🌱 Recently,I have done my project on website development, check it out✔ <a href="http://nutritiontracker.lovestoblog.com/" target="_blank">Nutrition Tracker</a>
 - Reach me asap <a href="https://www.linkedin.com/in/aditya-burman-240196/" target="_blank">Linkedin</a> or <a href="https://twitter.com/Aditya_Burman_/" target="_blank">Twitter</a>
