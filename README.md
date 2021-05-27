@@ -2,7 +2,7 @@
 ## I’m currently pursuing Advance Diploma in IT, Networking and Cloud Computing at National Skill Training Institute,Bhubaneswar.
 ## Recently,I have done my project on website development, click here ✔ <a href="http://nutritiontracker.lovestoblog.com/" target="_blank">Nutrition Tracker</a>
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Reach me asap <a href="https://www.linkedin.com/in/aditya-burman-240196/" target="_blank">Linkedin</a> or <a href="https://twitter.com/Aditya_Burman_/" target="_blank">Twitter</a>
-### Interests: Cybersecurity, Cloud Computing, Artificial Intelligence, Programming Languages, troubleshooting. 
+### Interests: Cloud Computing, Artificial Intelligence, Programming Languages, Cybersecurity, Troubleshooting. 
 ## IBM SkillsBuild Badges
 - <a href="https://www.credly.com/badges/4bcbd90d-1294-4c77-9d75-77d3bf29e5be/public_url/" target="_blank">Cloud Core</a>
 - <a href="https://www.credly.com/badges/40477d9c-8570-439f-b148-183421470ec4/public_url/" target="_blank">IBM Cloud Essentials</a>
