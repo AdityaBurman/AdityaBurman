@@ -5,8 +5,8 @@
 ### Click here to view my verified achievement from 👉<a href="https://www.credly.com/users/aditya-burman.2ea540c4/" target="_blank">IBM Badges</a>
 ### Skills
 - Cloud Computing
-- Artificial Intelligence
 - Programming Languages
+- Web Development
 - Cybersecurity
 - Troubleshooting
 - Team work
